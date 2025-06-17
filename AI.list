@@ -1,0 +1,56 @@
+# UpdateTime：2025-05-22 19:51:33
+# RuleCount：53
+payload:
+  - DOMAIN,chat.mistral.ai
+  - DOMAIN,console.mistral.ai
+  - DOMAIN,api.x.ai
+  - DOMAIN,chatgpt.livekit.cloud
+  - DOMAIN,host.livekit.cloud
+  - DOMAIN,turn.livekit.cloud
+  - DOMAIN,sydney.bing.com
+  - DOMAIN,www.bing.com
+  - DOMAIN,deepmind.com
+  - DOMAIN,api.githubcopilot.com
+  - DOMAIN,copilot-proxy.githubusercontent.com
+  - DOMAIN,aistudio.google.com
+  - DOMAIN,bard.google.com
+  - DOMAIN,alkalicore-pa.clients6.google.com
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,gemini.google.com
+  - DOMAIN,makersuite.google.com
+  - DOMAIN,aida.googleapis.com
+  - DOMAIN,geller-pa.googleapis.com
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,proactivebackend-pa.googleapis.com
+  - DOMAIN,imagine.meta.com
+  - DOMAIN,copilot.microsoft.com
+  - DOMAIN,ai.google.dev
+  - DOMAIN,deepmind.google
+  - DOMAIN,generativeai.google
+  - DOMAIN,trae-api-sg.mchost.guru
+  - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN,production-openaicom-storage.azureedge.net
+  - DOMAIN,openai.com.cdn.cloudflare.net
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,grazie.ai
+  - DOMAIN-SUFFIX,jetbrains.ai
+  - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,mistral.ai
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,pplx.ai
+  - DOMAIN-SUFFIX,trae.ai
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,chat.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,perplexity.com
+  - DOMAIN-SUFFIX,sora.com
+  - DOMAIN-SUFFIX,grazie.aws.intellij.net
+  - IP-CIDR,160.79.104.0/23, no-resolve
+  - IP-CIDR6,2607:6bc0::/48, no-resolve
