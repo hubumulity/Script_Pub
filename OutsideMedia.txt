@@ -1,0 +1,1458 @@
+# NAME: OutsideMedia
+# Updated: 2026-01-08
+
+# TVSeries & Movies & Anime & Media Servers
+
+# 低端影视（已关站）
+## DOMAIN-SUFFIX,ddrk.me
+## DOMAIN-SUFFIX,ddys.info
+## DOMAIN-SUFFIX,ddys.love
+## DOMAIN-SUFFIX,ddys.me
+## DOMAIN-SUFFIX,ddys.mov
+## DOMAIN-SUFFIX,ddys.pro
+## DOMAIN-SUFFIX,ddys.site
+## DOMAIN-SUFFIX,ddys.tv
+## DOMAIN-SUFFIX,ddys2.me
+
+# 厂长资源
+DOMAIN-SUFFIX,cz01.tv
+DOMAIN-SUFFIX,cz01.vip
+DOMAIN-SUFFIX,cz0101.com
+DOMAIN-SUFFIX,cz233.com
+DOMAIN-SUFFIX,cz4k.com
+DOMAIN-SUFFIX,czys.pro
+DOMAIN-SUFFIX,czys.top
+DOMAIN-SUFFIX,czys03.com
+DOMAIN-SUFFIX,czz9.com
+DOMAIN-SUFFIX,czzy.site
+DOMAIN-SUFFIX,czzy.top
+DOMAIN-SUFFIX,czzy.tv
+DOMAIN-SUFFIX,czzy22.com
+DOMAIN-SUFFIX,czzy55.com
+DOMAIN-SUFFIX,czzy66.com
+DOMAIN-SUFFIX,czzy77.com
+DOMAIN-SUFFIX,czzy88.com
+DOMAIN-SUFFIX,czzymovie.com
+DOMAIN-SUFFIX,czzyvideo.com
+
+# 在线之家
+DOMAIN-SUFFIX,1993s.top
+DOMAIN-SUFFIX,zxzj.org
+DOMAIN-SUFFIX,zxzj.pro
+DOMAIN-SUFFIX,zxzj.site
+DOMAIN-SUFFIX,zxzj.vip
+DOMAIN-SUFFIX,zxzja.com
+DOMAIN-SUFFIX,zxzjhd.com
+DOMAIN-SUFFIX,zxzjys.com
+
+# 欧乐影院
+DOMAIN-SUFFIX,iole.tv
+DOMAIN-SUFFIX,olehd.com
+DOMAIN-SUFFIX,olehdtv.com
+DOMAIN-SUFFIX,olelive.com
+DOMAIN-SUFFIX,olevod.com
+DOMAIN-SUFFIX,olevod.tv
+DOMAIN-SUFFIX,olevod7.com
+
+# 哔嘀影视
+DOMAIN-SUFFIX,52bdys.com
+DOMAIN-SUFFIX,bde4.icu
+DOMAIN-SUFFIX,bdys.me
+DOMAIN-SUFFIX,bdys01.com
+DOMAIN-SUFFIX,bdys03.com
+DOMAIN-SUFFIX,bdys10.com
+DOMAIN-SUFFIX,xl01.com.de
+DOMAIN-SUFFIX,xlys.ltd.ua
+DOMAIN-SUFFIX,xlys.me
+DOMAIN-SUFFIX,xlys01.com
+DOMAIN-SUFFIX,yjys.cc.ua
+DOMAIN-SUFFIX,yjys.inf.ua
+DOMAIN-SUFFIX,yjys.me
+DOMAIN-SUFFIX,yjys.top
+DOMAIN-SUFFIX,yjys02.com
+DOMAIN-SUFFIX,yjys05.com
+
+# Libvio
+DOMAIN-SUFFIX,ifabu.vip
+DOMAIN-SUFFIX,iioo.me
+DOMAIN-SUFFIX,lib.ifabu.vip
+DOMAIN-SUFFIX,libfabu.com
+DOMAIN-SUFFIX,libvio.app
+DOMAIN-SUFFIX,libvio.cc
+DOMAIN-SUFFIX,libvio.cloud
+DOMAIN-SUFFIX,libvio.com
+DOMAIN-SUFFIX,libvio.fun
+DOMAIN-SUFFIX,libvio.in
+DOMAIN-SUFFIX,libvio.la
+DOMAIN-SUFFIX,libvio.link
+DOMAIN-SUFFIX,libvio.me
+DOMAIN-SUFFIX,libvio.mov
+DOMAIN-SUFFIX,libvio.pro
+DOMAIN-SUFFIX,libvio.pw
+DOMAIN-SUFFIX,libvio.site
+DOMAIN-SUFFIX,libvio.vip
+DOMAIN-SUFFIX,libviohd.com
+
+# 独播库
+DOMAIN-SUFFIX,dbkcc.cc
+DOMAIN-SUFFIX,dubocool.com
+DOMAIN-SUFFIX,duboku.co
+DOMAIN-SUFFIX,duboku.net
+DOMAIN-SUFFIX,duboku.tv
+DOMAIN-SUFFIX,dubokutv.supertws.com
+DOMAIN-SUFFIX,pub.duboku.net
+
+# 海外看
+DOMAIN-SUFFIX,haiwaikan.com
+
+# 其它在线站
+## DOMAIN-SUFFIX,360kan.com //已直连
+DOMAIN-SUFFIX,3ayy.com
+DOMAIN-SUFFIX,4kvm.net
+DOMAIN-SUFFIX,4kvm.org
+DOMAIN-SUFFIX,4kvm.pro
+DOMAIN-SUFFIX,4kvm.site
+DOMAIN-SUFFIX,6080yy3.com
+DOMAIN-SUFFIX,6080yy3.com
+DOMAIN-SUFFIX,6080yy4.com
+DOMAIN-SUFFIX,6wyy.com
+DOMAIN-SUFFIX,993dy.com
+DOMAIN-SUFFIX,bei5dy.com
+DOMAIN-SUFFIX,boluoxiaozhan.com
+DOMAIN-SUFFIX,cddys.me
+DOMAIN-SUFFIX,cdnkan.top
+DOMAIN-SUFFIX,changmengyun.com
+DOMAIN-SUFFIX,colafun.com
+DOMAIN-SUFFIX,cupfox.app
+DOMAIN-SUFFIX,cupfox.love
+DOMAIN-SUFFIX,dami5tv.com
+DOMAIN-SUFFIX,damifi.com
+DOMAIN-SUFFIX,damiflix.com
+DOMAIN-SUFFIX,damiq.online
+DOMAIN-SUFFIX,damit.cc
+DOMAIN-SUFFIX,damivid.com
+DOMAIN-SUFFIX,dandanju.fun
+DOMAIN-SUFFIX,dandanju.la
+DOMAIN-SUFFIX,dandanju.pro
+DOMAIN-SUFFIX,dandanju.pw
+DOMAIN-SUFFIX,dandanju.tv
+DOMAIN-SUFFIX,dandanju.vip
+DOMAIN-SUFFIX,ddjhd.cc
+DOMAIN-SUFFIX,ddjhd.com
+DOMAIN-SUFFIX,ddjhd.vip
+DOMAIN-SUFFIX,dsxys.com
+DOMAIN-SUFFIX,dsxys.pro
+DOMAIN-SUFFIX,duboku.io
+DOMAIN-SUFFIX,duboku.tv
+DOMAIN-SUFFIX,flixflop.com
+DOMAIN-SUFFIX,freeok.pro
+DOMAIN-SUFFIX,freeok.vip
+DOMAIN-SUFFIX,fuju1.tv
+DOMAIN-SUFFIX,gaze.run
+DOMAIN-SUFFIX,ghw9zwp5.com
+DOMAIN-SUFFIX,gimy.ai
+DOMAIN-SUFFIX,hanjukankan.com
+DOMAIN-SUFFIX,histar.tv
+DOMAIN-SUFFIX,jinman6.com
+DOMAIN-SUFFIX,jiohub.top
+DOMAIN-SUFFIX,jqqzx.com
+DOMAIN-SUFFIX,jqqzx.one
+DOMAIN-SUFFIX,kan80.app
+DOMAIN-SUFFIX,keke1.app
+DOMAIN-SUFFIX,keke10.app
+DOMAIN-SUFFIX,keke12.com
+DOMAIN-SUFFIX,keke13.com
+DOMAIN-SUFFIX,keke14.com
+DOMAIN-SUFFIX,keke7.app
+DOMAIN-SUFFIX,keke9.app
+DOMAIN-SUFFIX,keke9.com
+DOMAIN-SUFFIX,kekys.com
+DOMAIN-SUFFIX,kkys01.com
+DOMAIN-SUFFIX,kkys02.com
+DOMAIN-SUFFIX,kkys03.com
+DOMAIN-SUFFIX,kmeiju.cc
+DOMAIN-SUFFIX,kmeiju.com
+DOMAIN-SUFFIX,maayun.com
+DOMAIN-SUFFIX,mcoun.com
+DOMAIN-SUFFIX,mkvdo.com
+DOMAIN-SUFFIX,nivod4.tv
+DOMAIN-SUFFIX,nivod5.com
+DOMAIN-SUFFIX,nycvod.com
+DOMAIN-SUFFIX,odivod.com
+DOMAIN-SUFFIX,op.ysdqjs.cn
+DOMAIN-SUFFIX,physvod.com
+DOMAIN-SUFFIX,pupvod.com
+DOMAIN-SUFFIX,qiyoudy4.com
+DOMAIN-SUFFIX,shapp.us
+DOMAIN-SUFFIX,subaibai.com
+DOMAIN-SUFFIX,subaibai.vip
+DOMAIN-SUFFIX,zhaifufabu.com
+DOMAIN-SUFFIX,zhaifujidi.com
+DOMAIN-SUFFIX,zhuijumi.cc
+
+# XPTV CMS & VOD
+# Source1: Yswag
+# Source2: kingreevice 
+# Source3: occupy-pluto
+# Source4: xiaobaitulele
+# Source5: fangkuia
+## HDmoli
+DOMAIN-SUFFIX,hdmoli.pro
+DOMAIN-SUFFIX,molicp.com
+DOMAIN-SUFFIX,jiaozi.me
+## 文才
+DOMAIN,api.zeqaht.com
+## 速訊影院
+DOMAIN-SUFFIX,suxun.site
+## 兩個BT
+DOMAIN-SUFFIX,bttwo.me
+DOMAIN-SUFFIX,bttwo.net
+DOMAIN-SUFFIX,bttwo.org
+DOMAIN-SUFFIX,bttwo.vip
+DOMAIN-SUFFIX,bttwoo.com
+## 燒火電影
+DOMAIN-SUFFIX,saohuo.org
+DOMAIN-SUFFIX,saohuo.tv
+DOMAIN-SUFFIX,saohuo.us
+DOMAIN-SUFFIX,shdy2.com
+DOMAIN-SUFFIX,shdy5.us
+## 素白白影視
+DOMAIN-SUFFIX,subaibai.com
+DOMAIN-SUFFIX,subaibai.vip
+DOMAIN-SUFFIX,subaibaiys.com
+## anfuns
+DOMAIN-SUFFIX,anfuns.cc
+DOMAIN-SUFFIX,anfuns.in
+DOMAIN-SUFFIX,anfuns.org
+## 耐看點播
+DOMAIN-SUFFIX,nkvod.com
+## NO視頻
+# DOMAIN-SUFFIX,novipnoad.net //已直连
+## 韓劇看看
+# DOMAIN-SUFFIX,hanjukankan.com
+## 零度影視
+DOMAIN-SUFFIX,mitotv.com
+## 短劇天堂
+DOMAIN-SUFFIX,duanjutt.tv
+## 追憶
+DOMAIN,app.alovo.cn
+## bilfun
+DOMAIN-SUFFIX,bilfun.cc
+## 星芽短劇
+DOMAIN-SUFFIX,whjzjx.cn
+## 小蘋果
+DOMAIN,item.xpgtv.xyz
+DOMAIN,item.xpgtv.com
+## 小螞蟻
+DOMAIN,dsakf23665.com
+## 瓜子影視
+DOMAIN,zaqohu.com
+## timimg
+DOMAIN-SUFFIX,timizy.top
+## 4k-av
+## 需要非香港或非日本IP，也可能IP不干净，或者直连
+# DOMAIN-SUFFIX,4k-av.com //已直连
+## 金牌影视
+DOMAIN-SUFFIX,cfkj86.com
+DOMAIN-SUFFIX,ppvod01.blbtgg.com
+DOMAIN-SUFFIX,ppvod01.kqgfbs.com
+DOMAIN-SUFFIX,ppvod02.q19jcg.com
+## 愛壹帆
+DOMAIN-SUFFIX,iyf.tv
+DOMAIN-SUFFIX,yfsp.tv
+## 追光影视
+DOMAIN-SUFFIX,sgsd.xyz
+## 皮皮蝦
+## DOMAIN-SUFFIX,media-jsyz-fy-home.js6oss.ctyunxs.cn //网站已失效
+## DOMAIN-SUFFIX,ppxys.vip //网站已失效
+## 影视天堂
+DOMAIN-SUFFIX,7dgirl.org
+DOMAIN-SUFFIX,ysttv.org
+## 絕對影視
+DOMAIN-SUFFIX,jdys.art
+## 嗷嗚動漫
+DOMAIN-SUFFIX,aowu.tv
+## 老地方影视
+DOMAIN-SUFFIX,laodifang.tv
+## 电影天堂
+DOMAIN-SUFFIX,cgi.dytt8vip.com
+## 网菲猫
+DOMAIN-SUFFIX,ncat1.app
+## 追影猫
+DOMAIN-SUFFIX,weisiwang.com
+## 全集网
+DOMAIN-SUFFIX,yijia5.com
+## 剧迷
+DOMAIN-SUFFIX,gimy.tv
+DOMAIN-SUFFIX,gimytv.app
+DOMAIN-SUFFIX,gimytv.co
+## 爱剧集网
+DOMAIN-SUFFIX,2jyw.com
+## 海龟TV
+DOMAIN-SUFFIX,haigui.tv
+DOMAIN-SUFFIX,haigui.us
+## 桃子影视
+DOMAIN-SUFFIX,taozi008.com
+## 大米星球
+DOMAIN-SUFFIX,dmxq24.com
+## 新视觉影视
+DOMAIN-SUFFIX,sypfjy.com
+## 555影视
+DOMAIN-SUFFIX,wuwugo.life
+## 剧集TV
+DOMAIN-SUFFIX,tvjuji.cc
+## V1dhub
+DOMAIN-SUFFIX,vidhub.icu
+DOMAIN-SUFFIX,vidhub.in
+DOMAIN-SUFFIX,vidhubo.cc
+## nmlive
+DOMAIN-SUFFIX,lemonlive.deno.dev
+## 秋明山見
+DOMAIN-SUFFIX,api.maiyoux.com
+## youknow.tv
+DOMAIN-SUFFIX,youknow.tv
+DOMAIN-SUFFIX,dytt-cine.com
+## 稀饭动漫
+DOMAIN-SUFFIX,xfdm.pro
+DOMAIN-SUFFIX,xifan.moe
+DOMAIN-SUFFIX,xifanacg.com
+## 卡卡动漫
+DOMAIN-SUFFIX,kaka.china-mt.org
+## 假独播库
+DOMAIN-SUFFIX,duboku.info
+## 瓜子web
+DOMAIN-SUFFIX,haiwaiapi.1fc8ab0.com
+## 次元方舟
+DOMAIN-SUFFIX,cyfz.vip
+## 喵物次元
+DOMAIN-SUFFIX,mwcy.net
+## 奈飞工厂
+DOMAIN-SUFFIX,netflixgc.com
+## 麦田影院
+DOMAIN-SUFFIX,mtyy.tv
+DOMAIN-SUFFIX,mtyy1.com
+DOMAIN-SUFFIX,mtyy2.com
+DOMAIN-SUFFIX,mtyy3.com
+DOMAIN-SUFFIX,mtyy4.com
+DOMAIN-SUFFIX,mtyy5.com
+DOMAIN-SUFFIX,mtyy6.com
+DOMAIN-SUFFIX,mtyy7.com
+DOMAIN-SUFFIX,mtyy8.com
+DOMAIN-SUFFIX,mtyy9.com
+## ikanbot
+DOMAIN-SUFFIX,ikanbot.com
+## 飞快TV
+DOMAIN-SUFFIX,feikuai.tv
+## 多乐影视
+DOMAIN-SUFFIX,drys.top
+## 荐片
+DOMAIN-SUFFIX,ev5356.970xw.com
+
+
+## 其它
+DOMAIN-SUFFIX,infuseku.xyz
+DOMAIN-SUFFIX,pandalive.co.kr
+
+# XPTV PAN资源
+# Source: Yswag & kingreevice & occupy-pluto
+## 小纸条
+# DOMAIN-SUFFIX,gitcafe.ink //已直连
+## 玩偶哥哥
+# DOMAIN-SUFFIX,wogg.net //已直连
+## 阿里小站
+# DOMAIN-SUFFIX,pan666.net //已直连
+## 云盘资源 
+DOMAIN-SUFFIX,yunpan1.cc
+DOMAIN-SUFFIX,yunpan1.co
+DOMAIN-SUFFIX,yunpan1.wang
+DOMAIN-SUFFIX,yunpan1.xyz
+## 南風短劇
+# DOMAIN-SUFFIX,nanf.cc //已直连
+# DOMAIN-SUFFIX,21nf.com //已直连
+# DOMAIN-SUFFIX,nf999.cc //已直连
+## 多多影音
+# DOMAIN-SUFFIX,tv.yydsys.top //已直连
+## 蜡笔盘
+DOMAIN-SUFFIX,duopan.fun
+## 木偶
+DOMAIN-SUFFIX,mogg.top
+## 小米
+DOMAIN-SUFFIX,mihdr.top
+## 云盘资源网
+# DOMAIN-SUFFIX,res.yunpan.win //已直连
+## 校长影视
+# DOMAIN-SUFFIX,xzys.fun //已直连
+## 正奕
+DOMAIN-SUFFIX,jnczyl.top
+## 雷鲸
+DOMAIN-SUFFIX,leijing.xyz
+## 欧哥
+DOMAIN-SUFFIX,woog.nxog.eu.org
+## 云盘吧
+DOMAIN-SUFFIX,yunpan.in
+DOMAIN-SUFFIX,yunpan8.cc
+DOMAIN-SUFFIX,yunpanba.net
+## 小米UC资源站
+DOMAIN-SUFFIX,mucpan.cc
+## 闪电UC
+DOMAIN-SUFFIX,feimaouc.cloud
+## 奥秘
+DOMAIN-SUFFIX,vip.omii.top
+## 六趣
+DOMAIN-SUFFIX,wp.0v.fit
+## 小盘盘
+DOMAIN-SUFFIX,xpanpan.site
+## 特下饭
+DOMAIN-SUFFIX,txfyyds.top
+## 白嫖
+DOMAIN-SUFFIX,smdyo.top
+## 虎斑
+DOMAIN-SUFFIX,wp.huban.xyz
+## 天逸搜
+DOMAIN-SUFFIX,tianyiso.com
+## Star2
+DOMAIN-SUFFIX,1.star2.cn
+## SeedHub
+DOMAIN-SUFFIX,seedhub.cc
+DOMAIN-SUFFIX,seedhub.icu
+DOMAIN-SUFFIX,seedhub.pro
+DOMAIN-SUFFIX,seedhub.top
+## 云巢
+DOMAIN-SUFFIX,pecc.xin
+## 木偶
+DOMAIN-SUFFIX,91muou.icu
+
+
+# 其它采集站
+# Source1: https://gitbox520.github.io/gao/vp.json
+# Source2: https://github.com/Quinndark/syncnextPlugin
+# Source3: https://raw.githubusercontent.com/fangkuia/XPTV/main/CMS/XPTV.json
+# Source4: https://raw.githubusercontent.com/fangkuia/XPTV/main/X/QuantumultX.list
+# 未包含视频播放和图片CDN服务器
+DOMAIN,cj.yayazy.net
+DOMAIN,gwcms.cttv.vip
+DOMAIN,iqyi.xiaohuangrentv.com
+DOMAIN,ys9.cttv.vip
+DOMAIN,yyff.540734621.xyz
+DOMAIN-SUFFIX,1080zyku.com
+DOMAIN-SUFFIX,360zy.com
+DOMAIN-SUFFIX,39kan.com
+DOMAIN-SUFFIX,49zyw.com
+DOMAIN-SUFFIX,540734621.xyz
+DOMAIN-SUFFIX,911ysw.top
+DOMAIN-SUFFIX,ahjiuman.com
+DOMAIN-SUFFIX,aliys.cn
+DOMAIN-SUFFIX,api.1080zyku.com
+DOMAIN-SUFFIX,api.apibdzy.com
+DOMAIN-SUFFIX,api.ffzyapi.com
+DOMAIN-SUFFIX,api.guangsuapi.com
+DOMAIN-SUFFIX,api.niuniuzy.me
+DOMAIN-SUFFIX,api.tiankongapi.com
+DOMAIN-SUFFIX,api.ukuapi.com
+DOMAIN-SUFFIX,api.wujinapi.com
+DOMAIN-SUFFIX,api.wujinapi.me
+DOMAIN-SUFFIX,api.wujinapi.net
+DOMAIN-SUFFIX,api.wwzy.tv
+DOMAIN-SUFFIX,api.xinlangapi.com
+DOMAIN-SUFFIX,api.ylzy.me
+DOMAIN-SUFFIX,api.zuidapi.com
+DOMAIN-SUFFIX,apibdzy.com
+DOMAIN-SUFFIX,apilyzy.com
+DOMAIN-SUFFIX,apittzy.com
+DOMAIN-SUFFIX,apiyhzy.com
+DOMAIN-SUFFIX,app.dybfun.com
+DOMAIN-SUFFIX,baozi66.top
+DOMAIN-SUFFIX,bfzyapi.com
+DOMAIN-SUFFIX,caiji.dbzy.tv
+DOMAIN-SUFFIX,caiji.dyttzyapi.com
+DOMAIN-SUFFIX,caiji.kczyapi.com
+DOMAIN-SUFFIX,caiji.maotaizy.cc
+DOMAIN-SUFFIX,caiji.moduapi.cc
+DOMAIN-SUFFIX,cj.bajiecaiji.com
+DOMAIN-SUFFIX,cj.ffzyapi.com
+DOMAIN-SUFFIX,cj.json.icu
+DOMAIN-SUFFIX,cj.lzcaiji.comat
+DOMAIN-SUFFIX,cj.lziapi.com
+DOMAIN-SUFFIX,cj.vodimg.top
+DOMAIN-SUFFIX,cj.yayazy.net
+DOMAIN-SUFFIX,cjhwba.com
+DOMAIN-SUFFIX,ckzy.me
+DOMAIN-SUFFIX,collect.wolongzyw.com
+DOMAIN-SUFFIX,cttv.vip
+DOMAIN-SUFFIX,dybfun.com
+DOMAIN-SUFFIX,feidaozy.com
+DOMAIN-SUFFIX,feisuzyapi.com
+DOMAIN-SUFFIX,fenwe078.cf
+DOMAIN-SUFFIX,ffzy1.tv
+DOMAIN-SUFFIX,ffzy2.tv
+DOMAIN-SUFFIX,ffzy3.tv
+DOMAIN-SUFFIX,ffzy4.tv
+DOMAIN-SUFFIX,ffzy5.tv
+DOMAIN-SUFFIX,ffzyapi.com
+DOMAIN-SUFFIX,fszy1.com
+DOMAIN-SUFFIX,guangsuapi.com
+DOMAIN-SUFFIX,gwcms.cttv.vip
+DOMAIN-SUFFIX,haiwaikan.com
+DOMAIN-SUFFIX,heimuer.tv
+DOMAIN-SUFFIX,heimuer.xyz
+DOMAIN-SUFFIX,hhzyapi.com
+DOMAIN-SUFFIX,hongniuzy2.com
+DOMAIN-SUFFIX,huawei8.live
+DOMAIN-SUFFIX,huyaapi.com
+DOMAIN-SUFFIX,hw8.live
+DOMAIN-SUFFIX,ikunzyapi.com
+DOMAIN-SUFFIX,img.smdyw.top
+DOMAIN-SUFFIX,inmi.app
+DOMAIN-SUFFIX,iqyi.xiaohuangrentv.com
+DOMAIN-SUFFIX,jinyingzy.co
+DOMAIN-SUFFIX,jinyingzy.com
+DOMAIN-SUFFIX,json.heimuer.xyz
+DOMAIN-SUFFIX,json.icu
+DOMAIN-SUFFIX,jszyapi.com
+DOMAIN-SUFFIX,jyzyapi.com
+DOMAIN-SUFFIX,kczyapi.com
+DOMAIN-SUFFIX,kuaikan-api.com
+DOMAIN-SUFFIX,kuaikanzy.net
+DOMAIN-SUFFIX,kuaiyunzy.com
+DOMAIN-SUFFIX,kuakezy1.com
+DOMAIN-SUFFIX,lbapi9.com
+DOMAIN-SUFFIX,leshiapi.com
+DOMAIN-SUFFIX,leshizyapi.com
+DOMAIN-SUFFIX,lililili.cc
+DOMAIN-SUFFIX,lovedan.net
+DOMAIN-SUFFIX,lziapi.com
+DOMAIN-SUFFIX,m3u8.apiyhzy.com
+DOMAIN-SUFFIX,mdzyapi.com
+DOMAIN-SUFFIX,moduapi.cc
+DOMAIN-SUFFIX,moduzy.com
+DOMAIN-SUFFIX,niuniuzy.me
+DOMAIN-SUFFIX,okzyw9.com
+DOMAIN-SUFFIX,p2100.net
+DOMAIN-SUFFIX,qhzyapi.com
+DOMAIN-SUFFIX,sdzyapi.com
+DOMAIN-SUFFIX,simiyy.com
+DOMAIN-SUFFIX,slapibf.com
+DOMAIN-SUFFIX,subocaiji.com
+DOMAIN-SUFFIX,suoniapi.com
+DOMAIN-SUFFIX,tangrenjie.tv
+DOMAIN-SUFFIX,tiankongapi.com
+DOMAIN-SUFFIX,ukuapi.com
+DOMAIN-SUFFIX,vodimg.top
+DOMAIN-SUFFIX,wolongzy.cc
+DOMAIN-SUFFIX,wolongzyw.com
+DOMAIN-SUFFIX,wujinapi.com
+DOMAIN-SUFFIX,xiaohuangrentv.com
+DOMAIN-SUFFIX,xiaomaomi.cc
+DOMAIN-SUFFIX,xinlangapi.com
+DOMAIN-SUFFIX,xkanzy10.com
+DOMAIN-SUFFIX,xzcjz.com
+DOMAIN-SUFFIX,yayazy.net
+DOMAIN-SUFFIX,yhzy.cc
+DOMAIN-SUFFIX,ykapi.net
+DOMAIN-SUFFIX,ylzy.me
+DOMAIN-SUFFIX,yparse.com
+DOMAIN-SUFFIX,zpsps.com
+DOMAIN-SUFFIX,zuidapi.com
+DOMAIN-SUFFIX,zuidazy.me
+DOMAIN-SUFFIX,zy.xiaomaomi.cc
+DOMAIN-SUFFIX,zyz.yxys.top
+
+# 磁力 & 网盘资源站 & 字幕组 & 影视导航
+DOMAIN-SUFFIX,0dog.shop
+DOMAIN-SUFFIX,2bt0.com
+DOMAIN-SUFFIX,ainunu.com
+DOMAIN-SUFFIX,assrt.net
+DOMAIN-SUFFIX,bqrdh.com
+DOMAIN-SUFFIX,btnull.fun
+DOMAIN-SUFFIX,btnull.net
+DOMAIN-SUFFIX,btnull.nu
+DOMAIN-SUFFIX,btnull.org
+DOMAIN-SUFFIX,btnull.si
+DOMAIN-SUFFIX,bugutv.org
+DOMAIN-SUFFIX,cilixiong.org
+DOMAIN-SUFFIX,chaospace.cc
+DOMAIN-SUFFIX,dm.xueximeng.com
+DOMAIN-SUFFIX,dp88.net
+DOMAIN-SUFFIX,duanjuku.top
+DOMAIN-SUFFIX,dy.zixiya.me
+DOMAIN-SUFFIX,fanxinzhui.com
+DOMAIN-SUFFIX,gaoqing.la
+DOMAIN-SUFFIX,gugeso.com
+DOMAIN-SUFFIX,gyg.la
+DOMAIN-SUFFIX,gyg.si
+DOMAIN-SUFFIX,gyg.st
+DOMAIN-SUFFIX,gying.in
+DOMAIN-SUFFIX,gying.net
+DOMAIN-SUFFIX,gying.org
+DOMAIN-SUFFIX,gying.page
+DOMAIN-SUFFIX,gying.si
+DOMAIN-SUFFIX,jisubt.com
+DOMAIN-SUFFIX,kkxz.vip
+DOMAIN-SUFFIX,kuafuzys.com
+DOMAIN-SUFFIX,meijumi.net
+DOMAIN-SUFFIX,mihoyonb.com
+DOMAIN-SUFFIX,mini4k.com
+DOMAIN-SUFFIX,mj028.cn
+DOMAIN-SUFFIX,mjmtv.top
+DOMAIN-SUFFIX,mjmtv.vip
+DOMAIN-SUFFIX,molicp.com
+DOMAIN-SUFFIX,nmme.xyz
+DOMAIN-SUFFIX,nzmz.xyz
+DOMAIN-SUFFIX,pan.ailinux.de
+DOMAIN-SUFFIX,pan666.net
+DOMAIN-SUFFIX,panhub.shenzjd.com
+DOMAIN-SUFFIX,pansearch.me
+DOMAIN-SUFFIX,pansou.fmaps.xyz
+DOMAIN-SUFFIX,pansou.jkai.de
+DOMAIN-SUFFIX,pianyuan.org
+DOMAIN-SUFFIX,pioz.cn
+DOMAIN-SUFFIX,pkmkv.com
+DOMAIN-SUFFIX,ppxzy.ink
+DOMAIN-SUFFIX,res.yunpan.win
+DOMAIN-SUFFIX,rrdynb.com
+DOMAIN-SUFFIX,sou.makifx.com
+DOMAIN-SUFFIX,srtku.com
+DOMAIN-SUFFIX,star2.cn
+DOMAIN-SUFFIX,susuifa.com
+DOMAIN-SUFFIX,t-rex.tzfile.com
+DOMAIN-SUFFIX,tnhzmz.com
+DOMAIN-SUFFIX,ttysfx.com
+DOMAIN-SUFFIX,tudou.lvdoui.top
+DOMAIN-SUFFIX,tvku.vip
+DOMAIN-SUFFIX,uuoozz.com
+DOMAIN-SUFFIX,wanwansub.com
+DOMAIN-SUFFIX,weixine.net
+DOMAIN-SUFFIX,wobge.run.goorm.io
+DOMAIN-SUFFIX,wogg.link
+DOMAIN-SUFFIX,wogg.net
+DOMAIN-SUFFIX,wogg.xyz
+DOMAIN-SUFFIX,xiaouj.cn
+DOMAIN-SUFFIX,xinjufang.com
+DOMAIN-SUFFIX,xpanpan.site
+DOMAIN-SUFFIX,xunso.fun
+DOMAIN-SUFFIX,xzys.fun
+DOMAIN-SUFFIX,xzyshd.com
+DOMAIN-SUFFIX,yinfans.me
+DOMAIN-SUFFIX,yinghe.app
+DOMAIN-SUFFIX,yinghe.tv
+DOMAIN-SUFFIX,yingheapp.com
+DOMAIN-SUFFIX,yingso.fun
+DOMAIN-SUFFIX,yppan.com
+DOMAIN-SUFFIX,yulinshufa.cn
+DOMAIN-SUFFIX,yunpan1.cc
+DOMAIN-SUFFIX,yx.zerovv.top
+DOMAIN-SUFFIX,yyets.click
+DOMAIN-SUFFIX,zhaoziyuan1.cc
+DOMAIN-SUFFIX,zimuxia.cn
+
+# 滴嘀动画
+DOMAIN-SUFFIX,dddh.fun
+
+
+# 刮削 & 海报 & 周边 & 影音动漫评分
+# Apple 流媒体封面获取     https://bendodson.com/projects/itunes-artwork-finder
+# Y0utube 视频区域限制查询  https://polsy.org.uk/stuff/ytrestrict.cgi
+# 美剧背景音乐查询 https://www.tunefind.com
+DOMAIN-SUFFIX,allmusic.com
+DOMAIN-SUFFIX,anidb.net
+DOMAIN-SUFFIX,anilist.co
+DOMAIN-SUFFIX,anime-planet.com
+DOMAIN-SUFFIX,animenewsnetwork.com
+DOMAIN-SUFFIX,bendodson.com
+DOMAIN-SUFFIX,boxofficemojo.com
+DOMAIN-SUFFIX,dandanplay.net
+DOMAIN-SUFFIX,discogs.com
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imdb.to
+DOMAIN-SUFFIX,kitsu.io
+DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,metacritic.com
+DOMAIN-SUFFIX,myanimelist.net
+DOMAIN-SUFFIX,pitchfork.com
+DOMAIN-SUFFIX,polsy.org.uk
+DOMAIN-SUFFIX,rottentomatoes.com
+DOMAIN-SUFFIX,tf-cdn.com
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,tunefind.com
+
+
+# 在线动漫站
+# Age动漫
+DOMAIN-SUFFIX,age-api.com
+DOMAIN-SUFFIX,age-spa.com
+DOMAIN-SUFFIX,age.tv
+DOMAIN-SUFFIX,ageanime.app
+DOMAIN-SUFFIX,agedm.app
+DOMAIN-SUFFIX,agedm.live
+DOMAIN-SUFFIX,agedm.me
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,agedm.vip
+DOMAIN-SUFFIX,agefans.com
+DOMAIN-SUFFIX,agefans.la
+DOMAIN-SUFFIX,agemys.org
+
+# 樱花动漫
+DOMAIN-SUFFIX,iyhdmm.com
+DOMAIN-SUFFIX,iyinghua.io
+DOMAIN-SUFFIX,yhdm.one
+DOMAIN-SUFFIX,yhdm.so
+DOMAIN-SUFFIX,yhdmba.net
+DOMAIN-SUFFIX,yhdmba.org
+DOMAIN-SUFFIX,yinhuadm.cc
+DOMAIN-SUFFIX,yinhuadm.icu
+DOMAIN-SUFFIX,yinhuadm.one
+DOMAIN-SUFFIX,yinhuadm.vip
+
+# 哈哩哈哩
+DOMAIN-SUFFIX,halihali.org
+DOMAIN-SUFFIX,halihali18.com
+DOMAIN-SUFFIX,halihali21.com
+DOMAIN-SUFFIX,halihali28.com
+DOMAIN-SUFFIX,halihali29.com
+DOMAIN-SUFFIX,halihali7.com
+
+# 其它在线动漫站
+DOMAIN-SUFFIX,2kdm.com
+DOMAIN-SUFFIX,5dm.link
+DOMAIN-SUFFIX,70kankan.com
+DOMAIN-SUFFIX,92cj.com
+DOMAIN-SUFFIX,9527wu.com
+DOMAIN-SUFFIX,995dm.com
+DOMAIN-SUFFIX,9ciyuan.com
+DOMAIN-SUFFIX,acgfta.com
+DOMAIN-SUFFIX,acgftb.com
+DOMAIN-SUFFIX,anime1.me
+DOMAIN-SUFFIX,animoe.org
+DOMAIN-SUFFIX,auete.pro
+DOMAIN-SUFFIX,bimiacg.icu
+DOMAIN-SUFFIX,bimiacg10.net
+DOMAIN-SUFFIX,bimiacg11.net
+DOMAIN-SUFFIX,bimiacg12.net
+DOMAIN-SUFFIX,bimiacg4.net
+DOMAIN-SUFFIX,bimiacg5.net
+DOMAIN-SUFFIX,catw.moe
+DOMAIN-SUFFIX,cddys1.me
+DOMAIN-SUFFIX,ciyuanb.top
+DOMAIN-SUFFIX,clicli.cc
+DOMAIN-SUFFIX,cyc-anime.net
+DOMAIN-SUFFIX,cycani.org
+DOMAIN-SUFFIX,cycanime.com
+DOMAIN-SUFFIX,cycdm01.top
+DOMAIN-SUFFIX,dm.g916.com
+DOMAIN-SUFFIX,dm84.me
+DOMAIN-SUFFIX,dm84.site
+DOMAIN-SUFFIX,dm84.top
+DOMAIN-SUFFIX,dm84.tv
+DOMAIN-SUFFIX,dmbus.cc
+DOMAIN-SUFFIX,dmdan.cc
+DOMAIN-SUFFIX,dmdan.fans
+DOMAIN-SUFFIX,dmla7.com
+DOMAIN-SUFFIX,dmla9.com
+DOMAIN-SUFFIX,dmmiku.com
+DOMAIN-SUFFIX,dmmiku.net
+DOMAIN-SUFFIX,dogsfun.fun
+DOMAIN-SUFFIX,dongman8.cc
+DOMAIN-SUFFIX,dqsj.top
+DOMAIN-SUFFIX,eacg.net
+DOMAIN-SUFFIX,eacg1.com
+DOMAIN-SUFFIX,ebb.io
+DOMAIN-SUFFIX,fanshudm.com
+DOMAIN-SUFFIX,fantuandm.com
+DOMAIN-SUFFIX,fantuantv.com
+DOMAIN-SUFFIX,fengchedongmanwang.com
+DOMAIN-SUFFIX,fqdm.cc
+DOMAIN-SUFFIX,fulige.com
+DOMAIN-SUFFIX,g916.com
+DOMAIN-SUFFIX,girigirilove.com
+DOMAIN-SUFFIX,gugu01.cc
+DOMAIN-SUFFIX,gugu3.com
+DOMAIN-SUFFIX,gugufan.com
+DOMAIN-SUFFIX,gugufan.org
+DOMAIN-SUFFIX,gugumi.cc
+DOMAIN-SUFFIX,gxdm.me
+DOMAIN-SUFFIX,gxdm01.org
+DOMAIN-SUFFIX,huazidm.com
+DOMAIN-SUFFIX,imandao.org
+DOMAIN-SUFFIX,imandaow.com
+DOMAIN-SUFFIX,index.qg50.com
+DOMAIN-SUFFIX,invbo.top
+DOMAIN-SUFFIX,jibi.cc
+DOMAIN-SUFFIX,k6dm.com
+DOMAIN-SUFFIX,k9dm.com
+DOMAIN-SUFFIX,kimani.tv
+DOMAIN-SUFFIX,kt30.com
+DOMAIN-SUFFIX,kudm.net
+DOMAIN-SUFFIX,kudm.vip
+DOMAIN-SUFFIX,kudm8.com
+DOMAIN-SUFFIX,lffun.com
+DOMAIN-SUFFIX,lldm.net
+DOMAIN-SUFFIX,lmm52.com
+DOMAIN-SUFFIX,lmm55.com
+DOMAIN-SUFFIX,lmm88.com
+DOMAIN-SUFFIX,lmm92.com
+DOMAIN-SUFFIX,lvfan.fun
+DOMAIN-SUFFIX,mandaom.com
+DOMAIN-SUFFIX,mandaoo.com
+DOMAIN-SUFFIX,mandaow.com
+DOMAIN-SUFFIX,mandaow.org
+DOMAIN-SUFFIX,mfan.tv
+DOMAIN-SUFFIX,mgnacg.com
+DOMAIN-SUFFIX,mikudm.com
+DOMAIN-SUFFIX,mitang.tv
+DOMAIN-SUFFIX,mochadm.com
+DOMAIN-SUFFIX,moefun.net
+DOMAIN-SUFFIX,mtacg.tv
+DOMAIN-SUFFIX,mute01.com
+DOMAIN-SUFFIX,mutedm.com
+DOMAIN-SUFFIX,mutefun.cn
+DOMAIN-SUFFIX,mutefun.tv
+DOMAIN-SUFFIX,mwcy.net
+DOMAIN-SUFFIX,mxdm.tv
+DOMAIN-SUFFIX,mxdm.xyz
+DOMAIN-SUFFIX,mxdm4.com
+DOMAIN-SUFFIX,mxdm9.com
+DOMAIN-SUFFIX,myself-bbs.com
+DOMAIN-SUFFIX,nicohub.cc
+DOMAIN-SUFFIX,nicohub.net
+DOMAIN-SUFFIX,nicotv.bet
+DOMAIN-SUFFIX,nyacg.net
+DOMAIN-SUFFIX,nyadm.link
+DOMAIN-SUFFIX,nyadm.net
+DOMAIN-SUFFIX,nyafun.net
+DOMAIN-SUFFIX,pekolove.com
+DOMAIN-SUFFIX,psdcat.com
+DOMAIN-SUFFIX,qdm.plus
+DOMAIN-SUFFIX,qdm18.com
+DOMAIN-SUFFIX,qdm66.com
+DOMAIN-SUFFIX,qkan9.com
+DOMAIN-SUFFIX,senfun.in
+DOMAIN-SUFFIX,web.cycback.org
+DOMAIN-SUFFIX,wedm.cc
+DOMAIN-SUFFIX,xfani.com
+DOMAIN-SUFFIX,xfdm.pro
+DOMAIN-SUFFIX,xgcartoon.com
+DOMAIN-SUFFIX,xiuluodm.com
+DOMAIN-SUFFIX,ylsvid.com
+
+
+# (在线站及动漫站) 视频与图片CDN
+DOMAIN,hls.one
+DOMAIN-SUFFIX,438pnr4dyywt.com
+DOMAIN-SUFFIX,4678a.xyz
+DOMAIN-SUFFIX,56889.xyz
+DOMAIN-SUFFIX,67c6c7a.com
+DOMAIN-SUFFIX,7889bc.xyz
+DOMAIN-SUFFIX,99abd.xyz
+DOMAIN-SUFFIX,api.9cec79d.com
+DOMAIN-SUFFIX,api.zaqohu.com
+DOMAIN-SUFFIX,bf.mmiku.net
+DOMAIN-SUFFIX,bfikuncdn.com
+DOMAIN-SUFFIX,bytegiftia.top
+DOMAIN-SUFFIX,c.xpgtv.net
+DOMAIN-SUFFIX,cboku.com
+DOMAIN-SUFFIX,cdn.wlcdn88.com
+DOMAIN-SUFFIX,cdn.yinghuazy.xyz
+DOMAIN-SUFFIX,cdn7.ryplay7.com
+DOMAIN-SUFFIX,cdn8.ryplay8.com
+DOMAIN-SUFFIX,cdnlz12.com
+DOMAIN-SUFFIX,cj.lzcaiji.com
+DOMAIN-SUFFIX,deegh.xyz
+DOMAIN-SUFFIX,europe.olemovienews.com
+DOMAIN-SUFFIX,exp.bcevod.com 
+DOMAIN-SUFFIX,fb.libviofabu.com
+DOMAIN-SUFFIX,fentvoss.com
+DOMAIN-SUFFIX,fuckjapan.xingyu2.com
+DOMAIN-SUFFIX,g.xlzyd.com
+DOMAIN-SUFFIX,gboku.com
+DOMAIN-SUFFIX,gimg.one
+DOMAIN-SUFFIX,hboku.com
+DOMAIN-SUFFIX,hmrvideo.com
+DOMAIN-SUFFIX,image.caiji.cyou
+DOMAIN-SUFFIX,image.maimn.com
+DOMAIN-SUFFIX,image2.imgbox.com
+DOMAIN-SUFFIX,image8899.net
+DOMAIN-SUFFIX,images.weserv.nl
+DOMAIN-SUFFIX,img-cos.mandaoo.com
+DOMAIN-SUFFIX,img-dm.hs.oume.cc
+DOMAIN-SUFFIX,img.98ha.com
+DOMAIN-SUFFIX,img.bfzypic.com
+DOMAIN-SUFFIX,img.cycimg.me
+DOMAIN-SUFFIX,img.ffzy888.com
+DOMAIN-SUFFIX,img.guangsuimage.com
+DOMAIN-SUFFIX,img.lzzyimg.com
+DOMAIN-SUFFIX,img.py1080p.com
+DOMAIN-SUFFIX,img.zzyimg.com
+DOMAIN-SUFFIX,imgikzy.com
+DOMAIN-SUFFIX,imgyzzy.com
+DOMAIN-SUFFIX,jboku.com
+DOMAIN-SUFFIX,jx.mazc.org
+DOMAIN-SUFFIX,kboku.com
+DOMAIN-SUFFIX,kdubo.com
+DOMAIN-SUFFIX,kkzycdn.com
+DOMAIN-SUFFIX,kuaijiz.com
+DOMAIN-SUFFIX,m3u.nikanba.live
+DOMAIN-SUFFIX,mdubo.com
+DOMAIN-SUFFIX,nboku.com
+DOMAIN-SUFFIX,ndubo.com
+DOMAIN-SUFFIX,nqrru.com
+DOMAIN-SUFFIX,p.bvvvvvvv7f.com
+DOMAIN-SUFFIX,pboku.com
+DOMAIN-SUFFIX,pic.china-mt.org
+DOMAIN-SUFFIX,pic.image8899.net
+DOMAIN-SUFFIX,pic.lzzypic.com
+DOMAIN-SUFFIX,pic.ry-pic.com
+DOMAIN-SUFFIX,pic.wujinpp.com
+DOMAIN-SUFFIX,pic.youkupic.com
+DOMAIN-SUFFIX,pic3.yzzyimages.com
+DOMAIN-SUFFIX,pic3.yzzyimg.online
+DOMAIN-SUFFIX,play.modujx11.com
+DOMAIN-SUFFIX,play.vplay.life
+DOMAIN-SUFFIX,play.xfvod.pro
+DOMAIN-SUFFIX,play.xluuss.com
+DOMAIN-SUFFIX,ps.ryzypics.com
+DOMAIN-SUFFIX,qboku.com
+DOMAIN-SUFFIX,qdubo.com
+DOMAIN-SUFFIX,qewbn.com
+DOMAIN-SUFFIX,rrcdnbf3.com
+DOMAIN-SUFFIX,s2.ax1x.com
+DOMAIN-SUFFIX,senhewenhua.com
+DOMAIN-SUFFIX,shandianpic.com
+DOMAIN-SUFFIX,snzypic.vip
+DOMAIN-SUFFIX,suboimage.com
+DOMAIN-SUFFIX,suonipic.com
+DOMAIN-SUFFIX,svip.high21-playback.com
+DOMAIN-SUFFIX,svip.high22-playback.com
+DOMAIN-SUFFIX,svip.high25-playback.com
+DOMAIN-SUFFIX,svip.qlplayer.cyou
+DOMAIN-SUFFIX,svipsvip.ffzy-online5.com
+DOMAIN-SUFFIX,tdubo.com
+DOMAIN-SUFFIX,thehanju.com
+DOMAIN-SUFFIX,tlkqc.com
+DOMAIN-SUFFIX,ts.hls.one
+DOMAIN-SUFFIX,ttvwx.xyz
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,tv.gboku.com
+DOMAIN-SUFFIX,uhibo.com
+DOMAIN-SUFFIX,ukzy.ukubf3.com
+DOMAIN-SUFFIX,uoiqmwhmk2tt.com
+DOMAIN-SUFFIX,v.cdnlz22.com
+DOMAIN-SUFFIX,v.damoli.pro
+DOMAIN-SUFFIX,v.gsuus.com
+DOMAIN-SUFFIX,v.lzcdn24.com
+DOMAIN-SUFFIX,v2.myvideos.info
+DOMAIN-SUFFIX,v6.bxgbnet.com
+DOMAIN-SUFFIX,v6.qrssv.com
+DOMAIN-SUFFIX,v6.suvww.xyz
+DOMAIN-SUFFIX,vboku.com
+DOMAIN-SUFFIX,vdabo.com
+DOMAIN-SUFFIX,vdubo.com
+DOMAIN-SUFFIX,vip.ffzy-play2.com
+DOMAIN-SUFFIX,vip.ffzy-play5.com
+DOMAIN-SUFFIX,vip.ffzy-video.com
+DOMAIN-SUFFIX,vvddoo.com
+DOMAIN-SUFFIX,wakigfl.cnmdm.top
+DOMAIN-SUFFIX,wangchuanxin.top
+DOMAIN-SUFFIX,wboku.com
+DOMAIN-SUFFIX,wdubo.com
+DOMAIN-SUFFIX,web.bageyi.cc
+DOMAIN-SUFFIX,xdubo.com
+DOMAIN-SUFFIX,xgct-video.vzcdn.net
+DOMAIN-SUFFIX,yboku.com
+DOMAIN-SUFFIX,yparse.ik9.cc
+DOMAIN-SUFFIX,yzzy1.play-cdn1.com
+
+# 听书相关
+## 最大的英文自制有声书社区
+DOMAIN-SUFFIX,librivox.org
+## Lit2Go 带有概要和的文本有声书故事和诗歌下载网站
+DOMAIN-SUFFIX,librivox.org
+DOMAIN-SUFFIX,usf.edu
+## 其它国产听书站
+DOMAIN-SUFFIX,ting74.com
+
+
+# Emby & Jellyfin & Navidrome
+
+# Plex 刮削相关
+# Plex镜像：https://hub.docker.com/r/plexinc/pms-docker 或 https://hub.docker.com/r/linuxserver/plex
+# Plex需要开放的端口：https://support.plex.tv/articles/201543147-what-network-ports-do-i-need-to-allow-through-my-firewall
+# 一些使用教程：https://www.zhihu.com/column/c_1627108324322734080
+# V2ex上一些 Plex 相关的域名：t/1059972，t/1060710
+# Plex 需要代理的地址
+## DOMAIN-SUFFIX,v4.plex.tv //已直连
+## DOMAIN-SUFFIX,plex.direct //已直连
+DOMAIN,plex.tv
+DOMAIN-SUFFIX,analytics.plex.tv
+DOMAIN-SUFFIX,clients.plex.tv
+DOMAIN-SUFFIX,community.plex.tv
+DOMAIN-SUFFIX,discover.provider.plex.tv
+DOMAIN-SUFFIX,downloads.plex.tv
+DOMAIN-SUFFIX,epg.provider.plex.tv
+DOMAIN-SUFFIX,features.plex.tv
+DOMAIN-SUFFIX,images.plex.tv
+DOMAIN-SUFFIX,luma.plex.tv
+DOMAIN-SUFFIX,meta.plex.tv
+DOMAIN-SUFFIX,metadata-static.plex.tv
+DOMAIN-SUFFIX,metadata.provider.plex.tv
+DOMAIN-SUFFIX,notifications.plex.tv
+DOMAIN-SUFFIX,provider-static.plex.tv
+DOMAIN-SUFFIX,pubsub.plex.tv
+DOMAIN-SUFFIX,sonos.plex.tv
+DOMAIN-SUFFIX,scrobbles.plex.tv
+DOMAIN-SUFFIX,vod-content.plexvideos.com
+DOMAIN-SUFFIX,vod.provider.plex.tv
+# 其它Plex使用的域名，猜测是用于调试和日志
+DOMAIN-SUFFIX,api.iterable.com
+DOMAIN-SUFFIX,co.vaicore.site
+DOMAIN-SUFFIX,config.claspws.tv
+DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,int.vaicore.site
+DOMAIN-SUFFIX,ip.claspws.tv
+DOMAIN-SUFFIX,o17675.ingest.us.sentry.io
+DOMAIN-SUFFIX,prodregistryv2.org
+
+
+
+
+# Anime 相关
+# Bangumi番组计划
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,bangumi.tv
+
+# 蜜柑计划
+DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,mikanime.tv
+
+# Anime 论坛 & 导航 & 字幕组 & 磁力站 & 其它
+## laplace.live/suits B站所有装扮浏览器 
+DOMAIN,867258173.ysepan.com
+DOMAIN,dh.kongbaige.net
+DOMAIN,dongmanhuayuan.myheartsite.com
+DOMAIN,ef-goods.vercel.app
+DOMAIN-SUFFIX,2cywebs.com
+DOMAIN-SUFFIX,2dh01.top
+DOMAIN-SUFFIX,404.website
+DOMAIN-SUFFIX,acg.gy
+DOMAIN-SUFFIX,acg.is
+DOMAIN-SUFFIX,acg.rip
+DOMAIN-SUFFIX,acg123.co
+DOMAIN-SUFFIX,acg17.com
+DOMAIN-SUFFIX,acgbox.link
+DOMAIN-SUFFIX,acgbus.com
+DOMAIN-SUFFIX,acgdh.cc
+DOMAIN-SUFFIX,acgmes.com
+DOMAIN-SUFFIX,acgn.zone
+DOMAIN-SUFFIX,acgndog.com
+DOMAIN-SUFFIX,acgnsq.com
+DOMAIN-SUFFIX,acgnx.se
+DOMAIN-SUFFIX,acgrip.com
+DOMAIN-SUFFIX,airota.net
+DOMAIN-SUFFIX,bangumi.moe
+DOMAIN-SUFFIX,bgmlist.com
+DOMAIN-SUFFIX,cyzd.moe
+DOMAIN-SUFFIX,dhr.moe
+DOMAIN-SUFFIX,dmguo.org
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,fengsky.tokyo
+DOMAIN-SUFFIX,fitacg.com
+DOMAIN-SUFFIX,gal123.com
+DOMAIN-SUFFIX,gmgard.com
+DOMAIN-SUFFIX,hacg.me
+DOMAIN-SUFFIX,hacg.mov
+DOMAIN-SUFFIX,hexieshe.com
+DOMAIN-SUFFIX,hysub.net
+DOMAIN-SUFFIX,iimmd.com
+DOMAIN-SUFFIX,kamigami.org
+DOMAIN-SUFFIX,kisssub.org
+DOMAIN-SUFFIX,laplace.live
+DOMAIN-SUFFIX,lilithraws.org
+DOMAIN-SUFFIX,lolii.org
+DOMAIN-SUFFIX,mcyacg.com
+DOMAIN-SUFFIX,miluxing.com
+DOMAIN-SUFFIX,miobt.com
+DOMAIN-SUFFIX,mmys.win
+DOMAIN-SUFFIX,mmys04.one
+DOMAIN-SUFFIX,moe.ac
+DOMAIN-SUFFIX,moeac.cc
+DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,ponpomu.com
+DOMAIN-SUFFIX,pusacgn.org
+DOMAIN-SUFFIX,reimu.net
+DOMAIN-SUFFIX,saber.love
+DOMAIN-SUFFIX,saucenao.com
+DOMAIN-SUFFIX,sayhuahuo.xyz
+DOMAIN-SUFFIX,sci-adv.cc
+DOMAIN-SUFFIX,sstm.moe
+DOMAIN-SUFFIX,tkecys.com
+DOMAIN-SUFFIX,tkecys1.top
+DOMAIN-SUFFIX,trace.moe
+DOMAIN-SUFFIX,vcb-s.com
+DOMAIN-SUFFIX,yuc.wiki
+DOMAIN-SUFFIX,zfsya.com
+
+
+# GalGame 相关
+DOMAIN,yinghu.netlify.app
+DOMAIN-SUFFIX,05fx.glitch.me
+DOMAIN-SUFFIX,223323.xyz
+DOMAIN-SUFFIX,2dfan.com
+DOMAIN-SUFFIX,2djgame.net
+DOMAIN-SUFFIX,acggw.club
+DOMAIN-SUFFIX,acgngame.top
+DOMAIN-SUFFIX,acgngames.net
+DOMAIN-SUFFIX,acgs.one
+DOMAIN-SUFFIX,acgsu.org
+DOMAIN-SUFFIX,acgyhw.com
+DOMAIN-SUFFIX,acgyw.com
+DOMAIN-SUFFIX,acgyyg.ru
+DOMAIN-SUFFIX,amemei-lists.top
+DOMAIN-SUFFIX,amoebi.com
+DOMAIN-SUFFIX,aozoracafe.com
+DOMAIN-SUFFIX,cloud.sayafx.top
+DOMAIN-SUFFIX,cngal.org
+DOMAIN-SUFFIX,ddfan.org
+DOMAIN-SUFFIX,ddfan.top
+DOMAIN-SUFFIX,erogame.space
+DOMAIN-SUFFIX,fan2d.lol
+DOMAIN-SUFFIX,fapforfun.net
+DOMAIN-SUFFIX,fhxy-a.top
+DOMAIN-SUFFIX,fufugal.com
+DOMAIN-SUFFIX,gal.red
+DOMAIN-SUFFIX,galbase.top
+DOMAIN-SUFFIX,galccg.com
+DOMAIN-SUFFIX,galcg.org
+DOMAIN-SUFFIX,galgamer.moe
+DOMAIN-SUFFIX,galgamezywz.com
+DOMAIN-SUFFIX,galge.top
+DOMAIN-SUFFIX,gallibrary.pw
+DOMAIN-SUFFIX,galxp.com
+DOMAIN-SUFFIX,galzy.eu.org
+DOMAIN-SUFFIX,gdqs.moe
+DOMAIN-SUFFIX,gdqs.org
+DOMAIN-SUFFIX,ggbases.com
+DOMAIN-SUFFIX,gogalgame.com
+DOMAIN-SUFFIX,hikarinagi.com
+DOMAIN-SUFFIX,kdays.net
+DOMAIN-SUFFIX,kfmax.com
+DOMAIN-SUFFIX,kfpromax.com
+DOMAIN-SUFFIX,kungal.com
+DOMAIN-SUFFIX,limulu.moe
+DOMAIN-SUFFIX,llgal.xyz
+DOMAIN-SUFFIX,lzacg.one
+DOMAIN-SUFFIX,lzacg.org
+DOMAIN-SUFFIX,mihoyo.ink
+DOMAIN-SUFFIX,mikocon.com
+DOMAIN-SUFFIX,mmgal.com
+DOMAIN-SUFFIX,moyu.moe
+DOMAIN-SUFFIX,nekogal.com
+DOMAIN-SUFFIX,nekotaku.net
+DOMAIN-SUFFIX,ninanacg.io
+DOMAIN-SUFFIX,ningyu.ga
+DOMAIN-SUFFIX,nn0721.icu
+DOMAIN-SUFFIX,pan.catcat.blog
+DOMAIN-SUFFIX,pan.jlbx.xyz
+DOMAIN-SUFFIX,pcmoe.net
+DOMAIN-SUFFIX,qingju.org
+DOMAIN-SUFFIX,qingjuacg.top
+DOMAIN-SUFFIX,sakakirio.com
+DOMAIN-SUFFIX,sakurakage.top
+DOMAIN-SUFFIX,sakustar.top
+DOMAIN-SUFFIX,saop.cc
+DOMAIN-SUFFIX,sayafx.top
+DOMAIN-SUFFIX,seikuu.com
+DOMAIN-SUFFIX,seiya-saiga.com
+DOMAIN-SUFFIX,shinnku.com
+DOMAIN-SUFFIX,skyrivers.org
+DOMAIN-SUFFIX,soraacg.com
+DOMAIN-SUFFIX,steamgalgame.com
+DOMAIN-SUFFIX,sumisora.net
+DOMAIN-SUFFIX,syzx.me
+DOMAIN-SUFFIX,t-satoru.top
+DOMAIN-SUFFIX,tiangal.com
+DOMAIN-SUFFIX,tianshie.com
+DOMAIN-SUFFIX,touchgal.co
+DOMAIN-SUFFIX,touchgal.com
+DOMAIN-SUFFIX,touchgal.io
+DOMAIN-SUFFIX,touchgal.me
+DOMAIN-SUFFIX,touchgal.moe
+DOMAIN-SUFFIX,touchgal.net
+DOMAIN-SUFFIX,touchgal.one
+DOMAIN-SUFFIX,touchgal.org
+DOMAIN-SUFFIX,touchgal.us
+DOMAIN-SUFFIX,ttloli.com
+DOMAIN-SUFFIX,wafuwafu.com
+DOMAIN-SUFFIX,xiayuge.top
+DOMAIN-SUFFIX,xiayuge1.top
+DOMAIN-SUFFIX,xiuren.cyou
+DOMAIN-SUFFIX,xop-static.top
+DOMAIN-SUFFIX,xxacg.net
+DOMAIN-SUFFIX,yanyugal.top
+DOMAIN-SUFFIX,ymgal.games
+DOMAIN-SUFFIX,yngal.com
+DOMAIN-SUFFIX,zi0.cc
+DOMAIN-SUFFIX,zodgame.xyz
+
+
+
+# Alist ACG 网盘
+DOMAIN,05fx.022016.xyz
+DOMAIN,1ov3.top
+DOMAIN,acgdb.de
+DOMAIN,al.chirmyram.com
+DOMAIN,alist.amemoes.com.cn
+DOMAIN,bangumi.sakiko.top
+DOMAIN,pan.cycg.xyz
+DOMAIN,pan.jlbx.xyz
+DOMAIN,pan.roxylib.com
+DOMAIN,sakakirio.com
+DOMAIN,sunshineboy.link
+DOMAIN,www.galzy.eu.org
+DOMAIN,zi0.cc
+
+# 漫画 & 本子
+# Some Sources are From https://github.com/keiyoushi/extensions
+DOMAIN-SUFFIX,177pica.com
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,2animx.com
+DOMAIN-SUFFIX,92mh.com
+DOMAIN-SUFFIX,ahri8.top
+DOMAIN-SUFFIX,bakamh.com
+DOMAIN-SUFFIX,baozimh.com
+DOMAIN-SUFFIX,baozimh.one
+DOMAIN-SUFFIX,baozimh.org
+DOMAIN-SUFFIX,biqumh.com
+DOMAIN-SUFFIX,boylove.cc
+DOMAIN-SUFFIX,bq8.org
+DOMAIN-SUFFIX,cartoon18.com
+DOMAIN-SUFFIX,cartoonmad.com
+DOMAIN-SUFFIX,cdnbea.org
+DOMAIN-SUFFIX,cdnblackmyth.club
+DOMAIN-SUFFIX,cdnblackmyth.xyz
+DOMAIN-SUFFIX,cdnliu.org
+DOMAIN-SUFFIX,cdnmhws.cc
+DOMAIN-SUFFIX,cdnmhwscc.org
+DOMAIN-SUFFIX,cdnntr.cc
+DOMAIN-SUFFIX,cdnsha.org
+DOMAIN-SUFFIX,cdnxxx-proxy.co
+DOMAIN-SUFFIX,cdnzack.cc
+DOMAIN-SUFFIX,cocomanga.org
+DOMAIN-SUFFIX,colamanga.com
+DOMAIN-SUFFIX,comicabc.com
+DOMAIN-SUFFIX,copymanga.site
+DOMAIN-SUFFIX,copymanga.tv
+DOMAIN-SUFFIX,czmanga.com
+DOMAIN-SUFFIX,darpou.com
+DOMAIN-SUFFIX,didamanhua.com
+DOMAIN-SUFFIX,dingmanhua.com
+DOMAIN-SUFFIX,dongman.la
+DOMAIN-SUFFIX,godamanga.art
+DOMAIN-SUFFIX,godamanga.com
+DOMAIN-SUFFIX,godamanga.site
+DOMAIN-SUFFIX,godamh.com
+DOMAIN-SUFFIX,gufengmh9.com
+DOMAIN-SUFFIX,h-ciyuan.com
+DOMAIN-SUFFIX,h-comic.com
+DOMAIN-SUFFIX,hanman.cyou
+DOMAIN-SUFFIX,hanman18.com
+DOMAIN-SUFFIX,hitomi.la
+DOMAIN-SUFFIX,hm01.lol
+DOMAIN-SUFFIX,hm02.lol
+DOMAIN-SUFFIX,hm04.lol
+DOMAIN-SUFFIX,hm05.lol
+DOMAIN-SUFFIX,hm06.lol
+DOMAIN-SUFFIX,hm07.lol
+DOMAIN-SUFFIX,hm08.lol
+DOMAIN-SUFFIX,hm09.lol
+DOMAIN-SUFFIX,hm1.lol
+DOMAIN-SUFFIX,hm10.lol
+DOMAIN-SUFFIX,hm17.lol
+DOMAIN-SUFFIX,hm18.lol
+DOMAIN-SUFFIX,hm19.lol
+DOMAIN-SUFFIX,hm2.lol
+DOMAIN-SUFFIX,hm3.lol
+DOMAIN-SUFFIX,ho5ho.com
+DOMAIN-SUFFIX,ikmmh.com
+DOMAIN-SUFFIX,jmapinode.biz
+DOMAIN-SUFFIX,jmapinode.vip
+DOMAIN-SUFFIX,jmapinode.xyz
+DOMAIN-SUFFIX,jmapinodeudzn.xyz
+DOMAIN-SUFFIX,jmapiproxyxxx.me
+DOMAIN-SUFFIX,jmapiproxyxxx.one
+DOMAIN-SUFFIX,jmapiproxyxxx.vip
+DOMAIN-SUFFIX,jmeadpoolcdn.life
+DOMAIN-SUFFIX,jmeadpoolcdn.one
+DOMAIN-SUFFIX,jmfreedomproxy.xyz
+DOMAIN-SUFFIX,komiic.com
+DOMAIN-SUFFIX,kox.moe
+DOMAIN-SUFFIX,liumanhua.com
+DOMAIN-SUFFIX,manben.com
+DOMAIN-SUFFIX,mangabz.com
+DOMAIN-SUFFIX,mangacopy.com
+DOMAIN-SUFFIX,manhuabika.com
+DOMAIN-SUFFIX,manhuadb.com
+DOMAIN-SUFFIX,manhw.com
+DOMAIN-SUFFIX,mhx12.com
+DOMAIN-SUFFIX,miaoshangmanhua.com
+DOMAIN-SUFFIX,nhentai.net
+DOMAIN-SUFFIX,nicohentai.com
+DOMAIN-SUFFIX,noy.asia
+DOMAIN-SUFFIX,noy1.top
+DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,readcomiconline.li
+DOMAIN-SUFFIX,readcomicsonline.ru
+DOMAIN-SUFFIX,rou.pub
+DOMAIN-SUFFIX,roum15.xyz
+DOMAIN-SUFFIX,roum20.xyz
+DOMAIN-SUFFIX,rouman5.com
+DOMAIN-SUFFIX,simply-hentai.com
+DOMAIN-SUFFIX,vol.moe
+DOMAIN-SUFFIX,wn01.uk
+DOMAIN-SUFFIX,wn02.uk
+DOMAIN-SUFFIX,wn03.cc
+DOMAIN-SUFFIX,wnacg.date
+DOMAIN-SUFFIX,wnbbs.top
+DOMAIN-SUFFIX,xmanhua.com
+DOMAIN-SUFFIX,yidan.cc
+DOMAIN-SUFFIX,yidan.in
+DOMAIN-SUFFIX,yymanhua.com
+DOMAIN-SUFFIX,zerobyw24.com
+
+# Manga image CDN
+DOMAIN-SUFFIX,jmapiproxy1.cc
+DOMAIN-SUFFIX,jmapiproxy1.monster
+DOMAIN-SUFFIX,jmapiproxy2.cc
+DOMAIN-SUFFIX,jmapiproxy3.cc
+DOMAIN-SUFFIX,jmapiproxy4.cc
+DOMAIN-SUFFIX,mangafuna.xyz
+DOMAIN-SUFFIX,qy0.ru
+DOMAIN-SUFFIX,tmsmh.com
+
+
+# ASMR
+DOMAIN-SUFFIX,asmr-300.com
+DOMAIN-SUFFIX,asmrbox.xyz
+DOMAIN-SUFFIX,asmrgay.com
+DOMAIN-SUFFIX,rainkmc.com
+
+
+# 杂志写真 & Coser图集
+## twintail-japan.com 日本双马尾协会
+DOMAIN,censored.booru.org
+DOMAIN,danbooru.donmai.us
+DOMAIN-SUFFIX,4khd.com
+DOMAIN-SUFFIX,anime-pictures.net
+DOMAIN-SUFFIX,bobopic.com
+DOMAIN-SUFFIX,chinagirlol.cc
+DOMAIN-SUFFIX,chnci.cc
+DOMAIN-SUFFIX,ciyuandao.com
+DOMAIN-SUFFIX,cosersets.com
+DOMAIN-SUFFIX,coshz.com
+DOMAIN-SUFFIX,cosplay8.com
+DOMAIN-SUFFIX,cosplayla.com
+DOMAIN-SUFFIX,cosz.com
+DOMAIN-SUFFIX,dimtown.com
+DOMAIN-SUFFIX,e-shuushuu.net
+DOMAIN-SUFFIX,everia.club
+DOMAIN-SUFFIX,gal.voiux.com
+DOMAIN-SUFFIX,gelbooru.com
+DOMAIN-SUFFIX,graphis.ne.jp
+DOMAIN-SUFFIX,hentaiclub.net
+DOMAIN-SUFFIX,jdlingyu.com
+DOMAIN-SUFFIX,jk.rs
+DOMAIN-SUFFIX,konachan.com
+DOMAIN-SUFFIX,lsptu16.com
+DOMAIN-SUFFIX,medibang.com
+DOMAIN-SUFFIX,micmicidol.club
+DOMAIN-SUFFIX,pandadiu.com
+DOMAIN-SUFFIX,pixivic.com
+DOMAIN-SUFFIX,safebooru.org
+DOMAIN-SUFFIX,sankakucomplex.com
+DOMAIN-SUFFIX,showgirlx.net
+DOMAIN-SUFFIX,someacg.top
+DOMAIN-SUFFIX,sshs.lol
+DOMAIN-SUFFIX,sshs.pw
+DOMAIN-SUFFIX,tbib.org
+DOMAIN-SUFFIX,toy-people.com
+DOMAIN-SUFFIX,tulr.pro
+DOMAIN-SUFFIX,worldcosplay.net
+DOMAIN-SUFFIX,xiuren.org
+DOMAIN-SUFFIX,yifanhune.com
+
+# 轻小说LightNovel
+DOMAIN,epubln.blogspot.com
+DOMAIN-SUFFIX,cijoc.com
+DOMAIN-SUFFIX,esjzone.cc
+DOMAIN-SUFFIX,fishhawk.top
+DOMAIN-SUFFIX,kakuyomu.jp
+DOMAIN-SUFFIX,lightnovel.love
+DOMAIN-SUFFIX,lightnovel.us
+DOMAIN-SUFFIX,masiro.me
+DOMAIN-SUFFIX,meox.org
+DOMAIN-SUFFIX,mobinovels.com
+DOMAIN-SUFFIX,wenku8.net
+
+# 手办
+DOMAIN-SUFFIX,78dm.net
+DOMAIN-SUFFIX,hpoi.net
+DOMAIN-SUFFIX,mowanmi.com
+
+
+# Pixman
+# https://hub.docker.com/r/pixman/pixman
+# Source: https://pixman.io/topics/17
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,thetvapp.to
+
+
+# Podcast
+DOMAIN-SUFFIX,anchor.fm
+DOMAIN-SUFFIX,buzzsprout.com
+DOMAIN-SUFFIX,firstory.io
+DOMAIN-SUFFIX,firstory.me
+DOMAIN-SUFFIX,typlog.com
+DOMAIN-SUFFIX,typlog.io
+DOMAIN-SUFFIX,soundcloud.com
+
+# 壁纸相关
+# Unsplash
+DOMAIN-SUFFIX,unsplash.com
+
+
+# 直播平台
+# Twitch
+# Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitch/Twitch.list
+# Updated: 2025-06-06
+DOMAIN-SUFFIX,ext-twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,live-video.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch-ext.rootonline.de
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,twitchsvc.net
+DOMAIN-KEYWORD,ttvnw
+IP-CIDR,103.53.48.0/23,no-resolve
+IP-CIDR,185.42.204.0/22,no-resolve
+IP-CIDR,192.108.239.0/24,no-resolve
+IP-CIDR,192.16.64.0/21,no-resolve
+IP-CIDR,199.9.248.0/21,no-resolve
+IP-CIDR,23.160.0.0/24,no-resolve
+IP-CIDR,45.113.128.0/22,no-resolve
+IP-CIDR,52.223.192.0/20,no-resolve
+IP-CIDR,52.223.208.0/21,no-resolve
+IP-CIDR,52.223.224.0/19,no-resolve
+IP-CIDR,99.181.64.0/18,no-resolve
+IP-CIDR6,2402:2a80::/32,no-resolve
+PROCESS-NAME,tv.twitch.android.app
+
+# 其它影视相关
+DOMAIN-SUFFIX,iill.top
+DOMAIN-SUFFIX,goodiptv.club
