@@ -140,6 +140,8 @@ payload:
   - DOMAIN-SUFFIX,dbzy5.com
   # 无尽资源
   - DOMAIN,api.wujinapi.me
+  # 光速资源
+  - DOMAIN-SUFFIX,gszyi.com
 
   # 解析加速
   - DOMAIN-SUFFIX,wlcdn88.com
